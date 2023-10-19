@@ -1,5 +1,5 @@
 # CongressPythonVizProject
-Overview
+Overview:
 This project visualizes the trend of the average age of Congress members over time. By examining data from various congresses, we're able to uncover a consistent rise in the average age of members, suggesting a shift in the generational representation of our legislators. Enhancing this data with the addition of party names adds ease of analysis of age in relation to party. 
 
 Getting Started:
