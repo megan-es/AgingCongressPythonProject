@@ -2,14 +2,16 @@
 Overview:
 This project visualizes the trend of the average age of Congress members over time. By examining data from various congresses, we're able to uncover a consistent rise in the average age of members, suggesting a shift in the generational representation of our legislators. Enhancing this data with the addition of party names adds ease of analysis of age in relation to party. 
 
-Getting Started:
-Prerequisites:
-Python
-Pandas
-Matplotlib
-You can install the required packages using:
-Copy code
+### Prerequisites
+Ensure you have the following tools and libraries installed:
+- [Python](https://www.python.org/downloads/)
+- [Pandas](https://pandas.pydata.org/)
+- [Matplotlib](https://matplotlib.org/)
+
+To install the required packages, use the command:
+```bash
 %pip install pandas matplotlib
+```
 
 Data:
 The primary dataset, data_aging_congress.csv is sourced from https://github.com/fivethirtyeight/data/tree/master/congress-demographics
