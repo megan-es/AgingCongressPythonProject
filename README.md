@@ -18,7 +18,7 @@ The primary dataset, data_aging_congress.csv is sourced from https://github.com/
 This dataset includes details of Congress members along with their respective party codes and ages. This dataset is transformed to generate a visualization showing the age trend of Congress over the years.
 
 ### Usage
-**Data Processing**:** The code reads the dataset, maps party codes to their respective party names, standardizes the capitalization of member names, and then saves the processed data into a new CSV file.
+**Data Processing**: The code reads the dataset, maps party codes to their respective party names, standardizes the capitalization of member names, and then saves the processed data into a new CSV file.
 
 **Visualization**: The processed data is used to plot the average age of Congress members against their term's start date. This visualization provides a clear insight into the aging trend of Congress over time.
 
